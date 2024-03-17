@@ -14,6 +14,10 @@ This project is deployed using Vercel, a cloud platform for static sites and ser
 
 You can view the deployed project here : [NextProject](https://next-project-mu-woad.vercel.app)
 
+This is a public project, thus the same login is used :
+* Email: user@nextmail.com
+* Password: 123456
+
 # Credits
 
 * Next.js: [NextJS.org](https://nextjs.org/)
